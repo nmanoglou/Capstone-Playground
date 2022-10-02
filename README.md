@@ -1,6 +1,6 @@
 # qr_code_reader
 
-A demo project made as part of my ups killing with Flutter.
+A demo project made as part of my upskilling with Flutter.
 The app is able to scan QR codes and have the data from the QR code stored in shared preferences to be displayed to the user.
 
 ## Getting Started
